@@ -24,7 +24,7 @@ Aunque me adapto rápido a cualquier entorno, estas son las tecnologías con las
 ---
 
 ### 🚀 Mi último proyecto: Wayfy
-Es el resultado de un proyecto colaborativo realizdo con Python y React. Implementé la integración de mapas (Mapbox/OSM) y modelos de IA (Llama) para mejorar la experiencia de viaje de personas con necesidades de accesibilidad.
+Es el resultado de un proyecto colaborativo realizdo con Python y React. Implementé la integración de mapas (Mapbox/OSM) y modelos de IA (Llama) para mejorar la experiencia de viaje de personas con necesidades de accesibilidad. Este proyecto aún se encuentra en construcción.
 
 ---
 
