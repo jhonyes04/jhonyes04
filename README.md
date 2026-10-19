@@ -37,7 +37,7 @@ Plataforma de viajes para personas con movilidad reducida. Los datos de accesibi
 
 ### 📅 Otro proyecto: Vuela Events
 
-Plataforma de gestión de eventos para red local de (Puntos Vuelo): calendario, inscripciones, roles y actas de asistencia en PDF.
+Plataforma de gestión de eventos para red local de (Puntos Vuela): calendario, inscripciones, roles y actas de asistencia en PDF.
 
 * **Calendario y series:** vista mensual propia, eventos puntuales y series recurrentes con control de plazas.
 * **Roles y permisos:** administración, dinamización territorial y agente de innovación local, cada uno con permisos finos por acción.
