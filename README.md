@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juanma 👋
 
-**Full Stack Developer | Impulsor de Innovación Tecnológica**
+**Full Stack Developer | Agente de Innovación Local (Puntos Vuela)**
 
 Llevo más de 20 años ayudando a las personas a entender y aprovechar la tecnología desde la administración pública. Mi camino me ha llevado desde la administración de sistemas hasta el desarrollo full stack, siempre con un objetivo claro: crear soluciones que realmente faciliten la vida de los usuarios.
 
