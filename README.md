@@ -7,7 +7,7 @@ Llevo más de 20 años ayudando a las personas a entender y aprovechar la tecnol
 ### 🌟 Un poco sobre mí
 
 * **De formador a desarrollador:** He pasado gran parte de mi carrera impartiendo talleres de robótica, diseño 3D y alfabetización digital. Esta etapa me enseñó que la tecnología no sirve de nada si no es accesible y humana.
-* **Perfil híbrido:** Combino la estructura mental de un administrador de sistemas con la creatividad y agilidad del desarrollo moderno con React y Python.
+* **Perfil híbrido:** Combino la estructura mental de un administrador de sistemas con la creatividad y agilidad del desarrollo moderno con React, TypeScript, Node/Express y PostgreSQL.
 * **Compromiso social:** Me apasionan los proyectos con impacto real. Mi proyecto final, **Wayfy**, es una plataforma de viajes accesibles validada por la comunidad, que une tecnología, IA y accesibilidad.
 
 ---
